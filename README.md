@@ -1,16 +1,21 @@
-## Hi there 👋
+# Hi, I'm Matthew! 👋
 
-<!--
-**Nerds4Breakfast/Nerds4Breakfast** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am an aspiring programmer with a love for music and writing. My journey involves delving into the world of computer science, exploring new ideas, and sharing my insights with the community.
 
-Here are some ideas to get you started:
+![Nerds4Breakfast's Stats](https://github-readme-stats.vercel.app/api?username=<username>&theme=vue-dark&show_icons=true&hide_border=true&count_private=true)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 About Me
+
+
+## 🌱 Currently Exploring
+
+- 🚀 Learning Full Stack Web Development
+  - Exploring the ins and outs of React and Redux for dynamic front-end experiences.
+  - Navigating through the world of React Router for seamless page transitions.
+  - Styling with Tailwind CSS to create modern and responsive user interfaces.
+  
+
+ ## 🏆 Achievements
+
+
+
